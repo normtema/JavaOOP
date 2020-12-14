@@ -8,7 +8,6 @@ public class CreateBook {
 
     private names name;
     private int pages;
-
     public enum names {
         a("a"),
         b("b"),

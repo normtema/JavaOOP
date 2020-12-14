@@ -17,6 +17,7 @@ public enum Genre {
 
     public String toString() { return "Genre is: "+this.GenreName; }
 
+
     public void setGenreName(String genreName) {
         GenreName = genreName;
     }
