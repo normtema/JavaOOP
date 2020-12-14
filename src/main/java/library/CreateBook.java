@@ -62,6 +62,16 @@ public class CreateBook {
         this.pages = pages;
     }
 
+    public names getName() {
+        return name;
+    }
+
+    public int getPages() {
+        return pages;
+    }
+
+
+
     @Override
     public boolean equals(Object obj) {
         if (obj == this) {
