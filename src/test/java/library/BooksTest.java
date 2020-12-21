@@ -10,19 +10,7 @@ import java.util.stream.Collectors;
 
 public class BooksTest {
 
-//    @Test
-//    public void input() {
-//
-//        String expected = "3";
-//
-////        Books temp= new Books();
-////
-////        String actual = ;
-////
-////        input();
-//
-//
-//    }
+
 
     @Test
     public void randomFillBooks() {
